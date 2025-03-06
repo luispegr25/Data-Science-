@@ -1,10 +1,190 @@
-Costo,Nombre,Superficie,Sanitarios,Cuartos,Lugar,Agente,Tipo de Propiedad,URL
-"$ 1,250",Zona 14,106,2,2,"Zona 14, Guatemala",MAFASA MAFASA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 3,000",Zona 14,325,2.5,2,"Zona 14, Guatemala",Proyecta Inmueble,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 1,600 incluye mantenimiento",Zona 14,193,2.5,3,"Zona 14, Guatemala",Proyecta Inmueble,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 1,500",Zona 14,175,2.5,3,"Zona 14, Guatemala",Proyecta Inmueble,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 3,200",Zona 14,250,3,3,"Zona 14, Guatemala",Realty Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 2,800",Zona 14,240,3.5,2,"Zona 14, Guatemala",Olga de Torrebiarte,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 1,100 3 habitaciones",Zona 14,96,2,3,"Zona 14, Guatemala",Enlaces Inmobiliarios,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-"$ 1,600",Zona 14,80,1.5,1,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
-$ 800,Zona 14,Info no disponible,2,2,"Zona 14, Guatemala",LUPA INMOBILIARIA Mary Gonzalez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+Precio $,Dormitorios,Nombre,Tamaño mt2,Habitaciones,Sanitarios,Parqueos,Zona,Agente,Tipo de Propiedad,URL
+$ 800,1,Zona 14,73,1,1.5,Info no disponible,"Zona 14, Guatemala",Inmobiliaria Casa Yune,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 VER DETALLES,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",Karla Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,152,2,2.5,Info no disponible,"Zona 14, Guatemala",Market Properties,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 + IVA",2,Zona 14,150,2,2.5,Info no disponible,"Zona 14, Guatemala",Market Properties,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,499",3,Zona 14,252,3,3.5,Info no disponible,"Zona 14, Guatemala",Market Properties,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700 0",2,Zona 14,75,2,2,Info no disponible,"Zona 14, Guatemala",Paola Sieckavizza,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 790,1,Zona 14,Info no disponible,1,1,Info no disponible,"Zona 14, Guatemala",Ana Cerezo,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,065 Iva y mto incluidos",2,Zona 14,205,2,2.5,Info no disponible,"Zona 14, Guatemala",PropiedadesGUA – Lucia Pivaral,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",3,Zona 14,175,3,3,Info no disponible,"Zona 14, Guatemala",Verónica Leal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 800,1,Zona 14,73,1,1.5,Info no disponible,"Zona 14, Guatemala",Inmobiliaria Casa Yune,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 VER DETALLES,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",Karla Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,152,2,2.5,Info no disponible,"Zona 14, Guatemala",Market Properties,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 + IVA",2,Zona 14,150,2,2.5,Info no disponible,"Zona 14, Guatemala",Market Properties,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,499",3,Zona 14,252,3,3.5,Info no disponible,"Zona 14, Guatemala",Market Properties,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700 0",2,Zona 14,75,2,2,Info no disponible,"Zona 14, Guatemala",Paola Sieckavizza,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 790,1,Zona 14,Info no disponible,1,1,Info no disponible,"Zona 14, Guatemala",Ana Cerezo,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,065 Iva y mto incluidos",2,Zona 14,205,2,2.5,Info no disponible,"Zona 14, Guatemala",PropiedadesGUA – Lucia Pivaral,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",3,Zona 14,175,3,3,Info no disponible,"Zona 14, Guatemala",Verónica Leal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 Para estrenar!,1,Zona 14,44,1,1.5,Info no disponible,"Zona 14, Guatemala",House & Home – Bienes Raíces,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 950 Primer nivel,2,Zona 14,92,2,2,Info no disponible,"Zona 14, Guatemala",Melissa Jiménez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 770 Con Jardin,1,Zona 14,55,1,1.5,Info no disponible,"Zona 14, Guatemala",Melissa Jiménez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,200",2,Zona 14,54,2,2,Info no disponible,"Zona 14, Guatemala",Realty Astarac,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,725",2,Zona 14,295,2,2,Info no disponible,"Zona 14, Guatemala",ACODI Inmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,650 Mantenimiento incluido",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",Jeniffer Zaldaña,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,190",2,Zona 14,67,2,2,Info no disponible,"Zona 14, Guatemala",Realty Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 750,1,Zona 14,Info no disponible,1,2,Info no disponible,"Zona 14, Guatemala",LUPA INMOBILIARIA Mary Gonzalez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 750,2,Zona 14,Info no disponible,2,2,Info no disponible,"Zona 14, Guatemala",LUPA INMOBILIARIA Mary Gonzalez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,200",2,Zona 14,Info no disponible,2,2,Info no disponible,"Zona 14, Guatemala",INMO AQUI AQUI,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900 Excelente precio,2,Zona 14,95,2,2,Info no disponible,"Zona 14, Guatemala",Lourdes Morales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500 Negociable",3,Zona 14,163,3,3.5,Info no disponible,"Zona 14, Guatemala",Campollo y Asociados,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 950,2,Zona 14,70,2,2,Info no disponible,"Zona 14, Guatemala",LUPA INMOBILIARIA Mary Gonzalez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,1,Zona 14,Info no disponible,1,1.5,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,160,2,2.5,Info no disponible,"Zona 14, Guatemala",Inversión Ideal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,295,2,2,Info no disponible,"Zona 14, Guatemala",Inversión Ideal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",Patricia de Brol,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900 +IVA,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Alejandra Figueroa,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900 +IVA,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Alejandra Figueroa,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 860,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Ambiente Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 860,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Ambiente Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 860 USD$,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Carol Paredes,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,000",3,Zona 14,136,3,2.5,Info no disponible,"Zona 14, Guatemala",Claudia Escobar,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800",3,Zona 14,Info no disponible,3,Info no disponible,Info no disponible,"Zona 14, Guatemala",YVIVE INMOBILIARIA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500",2,Zona 14,193,2,2.5,Info no disponible,"Zona 14, Guatemala",Ambiente Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700",3,Zona 14,136,3,3,Info no disponible,"Zona 14, Guatemala",DK Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 890,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Premium Realtor,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 890,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Premium Realtor,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500 mantenimiento incluido",3,Zona 14,237,3,3.5,Info no disponible,"Zona 14, Guatemala",Red Inmobiliaria Alicia Morales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800 incluye iva.",3,Zona 14,200,3,2.5,Info no disponible,"Zona 14, Guatemala",SDLinmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,620 $",3,Zona 14,139,3,3,Info no disponible,"Zona 14, Guatemala",Alterna Alterna,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,959 $",2,Zona 14,295,2,2,Info no disponible,"Zona 14, Guatemala",Alterna Alterna,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500 mantenimiento incluido",3,Zona 14,Info no disponible,3,3,Info no disponible,"Zona 14, Guatemala",Proyecta Inmueble,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700",3,Zona 14,137,3,2,Info no disponible,"Zona 14, Guatemala",Mundo Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250",3,Zona 14,139,3,2,Info no disponible,"Zona 14, Guatemala",Realty Astarac,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,150 (Mantto incluido)",3,Zona 14,88,3,2,Info no disponible,"Zona 14, Guatemala",Ikono Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,295,2,2,Info no disponible,"Zona 14, Guatemala",Realty Astarac,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700",3,Zona 14,137,3,2,Info no disponible,"Zona 14, Guatemala",Mundo Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 Más mantenimiento e IVA",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Amber Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,160,2,2.5,Info no disponible,"Zona 14, Guatemala",Inversión Ideal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,000",4,Zona 14,Info no disponible,4,2.5,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 775,1,Zona 14,Info no disponible,1,1.5,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,350",3,Zona 14,169,3,3.5,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700",3,Zona 14,132,3,2,Info no disponible,"Zona 14, Guatemala",Mundo Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 850,1,Zona 14,56,1,1,Info no disponible,"Zona 14, Guatemala",Mundo Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 Mantenimiento incluido,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Estilo Bienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800",4,Zona 14,275,4,4,Info no disponible,"Zona 14, Guatemala",Aguirre Bolaños Asociados,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 + Mantenimiento",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Inmobiliaria InHouse,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500 Ma IVA",2,Zona 14,146,2,2.5,Info no disponible,"Zona 14, Guatemala",Marlenne Hage,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 860,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",ÉCLAT ESTATE REAL ESTATE,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,1,Zona 14,58,1,1,Info no disponible,"Zona 14, Guatemala",ACODI Inmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 5,000 Más IVA",3,Zona 14,350,3,3.5,Info no disponible,"Zona 14, Guatemala",Marlenne Hage,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 850 Mant Incluido,1,Zona 14,56,1,1,Info no disponible,"Zona 14, Guatemala",Ana Luisa Gallardo,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,965",2,Zona 14,295,2,2,Info no disponible,"Zona 14, Guatemala",Maria Rosales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,192.46 Q 9,480.00",3,Zona 14,82,3,2,Info no disponible,"Zona 14, Guatemala",Brenda De Baechli,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 994 7,900.00",2,Zona 14,62,2,2,Info no disponible,"Zona 14, Guatemala",Brenda De Baechli,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 820 Inc mant,1,Zona 14,100,1,1,Info no disponible,"Zona 14, Guatemala",Fusion Inmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 700,1,Zona 14,Info no disponible,1,2,Info no disponible,"Zona 14, Guatemala",Rialta Inmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,800",2,Zona 14,125,2,2,Info no disponible,"Zona 14, Guatemala",Inmobiliaria Vertical,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 700,1,Zona 14,43,1,1,Info no disponible,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 850 1 habitación,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Enlaces Inmobiliarios,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900 1 habitación,1,Zona 14,Info no disponible,1,1.5,Info no disponible,"Zona 14, Guatemala",Enlaces Inmobiliarios,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 905,1,Zona 14,56,1,1,Info no disponible,"Zona 14, Guatemala",Juan José Zarco,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,400 incluye mantenimiento e I",3,Zona 14,120,3,2,Info no disponible,"Zona 14, Guatemala",Maria Fernanda Diaz Schwarz,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,950 mantto e IVA incluido",2,Zona 14,228,2,2.5,Info no disponible,"Zona 14, Guatemala",Negocios Integros,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 850,1,Zona 14,44,1,1,Info no disponible,"Zona 14, Guatemala",Verónica Leal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Negocios Integros,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,200",2,Zona 14,107,2,2,Info no disponible,"Zona 14, Guatemala",Diana Solorzano,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500 MATTO INCLUIDO",2,Zona 14,146,2,2.5,Info no disponible,"Zona 14, Guatemala",Negocios Integros,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,700",2,Zona 14,Info no disponible,2,2.5,Info no disponible,"Zona 14, Guatemala",Valentina Barrientos,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,000",1,Zona 14,100,1,2,Info no disponible,"Zona 14, Guatemala",ALQUILOGT,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,1,Zona 14,96,1,1.5,Info no disponible,"Zona 14, Guatemala",Bertha Maria Chavarria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500",3,Zona 14,140,3,2.5,Info no disponible,"Zona 14, Guatemala",V&R,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 5,600 Mantenimiento incluido",3,Zona 14,342,3,3.5,Info no disponible,"Zona 14, Guatemala",Jeniffer Zaldaña,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,960",2,Zona 14,295,2,3,Info no disponible,"Zona 14, Guatemala",DK Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 850 incluye mantenimiento,2,Zona 14,67,2,2,Info no disponible,"Zona 14, Guatemala",SDLinmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,100",3,Zona 14,225,3,2.5,Info no disponible,"Zona 14, Guatemala",Verónica Leal,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,950 VER DETALLES",2,Zona 14,228,2,2.5,Info no disponible,"Zona 14, Guatemala",Karla Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500 VER DETALLES",2,Zona 14,146,2,2.5,Info no disponible,"Zona 14, Guatemala",Karla Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250 Mas IVA",3,Zona 14,139,3,2,Info no disponible,"Zona 14, Guatemala",THE ONE Bienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,700 mas IVA",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Mariela Lam,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,2,Zona 14,70,2,2,Info no disponible,"Zona 14, Guatemala",Rafael Blanco,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800",2,Zona 14,240,2,2.5,Info no disponible,"Zona 14, Guatemala",Home Team Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800",2,Zona 14,240,2,2,Info no disponible,"Zona 14, Guatemala",Maricarmen Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,950 con iva incluido",2,Zona 14,228,2,2.5,Info no disponible,"Zona 14, Guatemala",SDLinmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,970",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Ximena Contreras Segovia,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,950 INCLUYE MANTTO E IVA",2,Zona 14,228,2,2.5,Info no disponible,"Zona 14, Guatemala",Negocios Integros,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 IVA incluido,1,Zona 14,70,1,1,Info no disponible,"Zona 14, Guatemala",THE ONE Bienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,950 IVA incluido",2,Zona 14,228,2,2,Info no disponible,"Zona 14, Guatemala",THE ONE Bienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 $",2,Zona 14,295,2,2,Info no disponible,"Zona 14, Guatemala",Inmuebles 180,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,000",3,Zona 14,202,3,2.5,Info no disponible,"Zona 14, Guatemala",Maricarmen Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500",2,Zona 14,193,2,3.5,Info no disponible,"Zona 14, Guatemala",Juan Carlos Ramirez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,160,2,2.5,Info no disponible,"Zona 14, Guatemala",Claudia Santiago,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Claudia Santiago,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 Dólares",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Ruth Mijangos,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 775,1,Zona 14,67,1,1.5,Info no disponible,"Zona 14, Guatemala",Claudia Santiago,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Ana Arenales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 USD",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Carla Peraza,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,700 mas iva",2,Zona 14,295,2,2.5,Info no disponible,"Zona 14, Guatemala",Michelle Ramirez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900 AMOBLADO,1,Zona 14,96,1,1,Info no disponible,"Zona 14, Guatemala",Carmen Moreno,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500 mant incluido + iva",2,Zona 14,145,2,2.5,Info no disponible,"Zona 14, Guatemala",AcBienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 Mant incluido",2,Zona 14,152,2,2.5,Info no disponible,"Zona 14, Guatemala",María José Alonso,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,500",2,Zona 14,146,2,2.5,Info no disponible,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,2,Zona 14,70,2,1,Info no disponible,"Zona 14, Guatemala",Ambiente Inmobiliario,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,160,2,2.5,Info no disponible,"Zona 14, Guatemala",Conexión Conexión Inmobiliaria GT,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,850",2,Zona 14,125,2,2,Info no disponible,"Zona 14, Guatemala",Conexión Conexión Inmobiliaria GT,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,200",3,Zona 14,102,3,2,Info no disponible,"Zona 14, Guatemala",Juan Carlos Ramirez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,160,2,2.5,Info no disponible,"Zona 14, Guatemala",Monica Gomez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,625",3,Zona 14,139,3,3,Info no disponible,"Zona 14, Guatemala",DK Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 7,500",4,Zona 14,809,4,5,Info no disponible,"Zona 14, Guatemala",Immobili Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,000",2,Zona 14,106,2,2,Info no disponible,"Zona 14, Guatemala",Francisco Estrada,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,800",2,Zona 14,Info no disponible,2,2.5,Info no disponible,"Zona 14, Guatemala",Bienes Cima,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,2,Zona 14,120,2,2,Info no disponible,"Zona 14, Guatemala",Inmobiliaria Casa Yune,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 con  iva y mantenimiento,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",SDLinmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,150 mantenimiento incluido",3,Zona 14,88,3,2,Info no disponible,"Zona 14, Guatemala",Maria Teresa Gochez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,159,2,2,Info no disponible,"Zona 14, Guatemala",ÉCLAT ESTATE REAL ESTATE,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,000",2,Zona 14,106,2,2,Info no disponible,"Zona 14, Guatemala",Francisco Estrada,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,800",2,Zona 14,Info no disponible,2,2.5,Info no disponible,"Zona 14, Guatemala",Bienes Cima,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,2,Zona 14,120,2,2,Info no disponible,"Zona 14, Guatemala",Inmobiliaria Casa Yune,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875 con  iva y mantenimiento,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",SDLinmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,150 mantenimiento incluido",3,Zona 14,88,3,2,Info no disponible,"Zona 14, Guatemala",Maria Teresa Gochez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,159,2,2,Info no disponible,"Zona 14, Guatemala",ÉCLAT ESTATE REAL ESTATE,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,100",2,Zona 14,90,2,2,Info no disponible,"Zona 14, Guatemala",Maria Rosales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 950,1,Zona 14,Info no disponible,1,1.5,Info no disponible,"Zona 14, Guatemala",Ximena Contreras Segovia,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 Mas iva",2,Zona 14,200,2,2.5,Info no disponible,"Zona 14, Guatemala",Lorena Urrutia,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",ACODI Inmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 900,2,Zona 14,70,2,1,Info no disponible,"Zona 14, Guatemala",Diego Estrada,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200 + IVA",3,Zona 14,249,3,2.5,Info no disponible,"Zona 14, Guatemala",Red Inmobiliaria Alicia Morales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,000",1,Zona 14,100,1,2,Info no disponible,"Zona 14, Guatemala",ALQUILOGT,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875,1,Zona 14,72,1,1,Info no disponible,"Zona 14, Guatemala",AO Bienes Raíces,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,400 Mantenimiento incluido",3,Zona 14,136,3,2.5,Info no disponible,"Zona 14, Guatemala",Leonel Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,200 Más mantenimiento e IVA",3,Zona 14,203,3,2.5,Info no disponible,"Zona 14, Guatemala",Amber Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250 +iva+mant",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",House & Home – Bienes Raíces,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,000",4,Zona 14,Info no disponible,4,2.5,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250 $",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",Inmuebles 180,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,565 mant incluido + iva",3,Zona 14,202,3,2.5,Info no disponible,"Zona 14, Guatemala",AcBienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500",2,Zona 14,105,2,2,Info no disponible,"Zona 14, Guatemala",Michelle Ramirez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,475",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,100",2,Zona 14,Info no disponible,2,2,Info no disponible,"Zona 14, Guatemala",INMOBILIARIA PROYMERCA,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500 Mant. Incluido + iva",1,Zona 14,86,1,1.5,Info no disponible,"Zona 14, Guatemala",Astrid Rolz de Cuestas,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,480 mas IVA",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",Mariela Lam,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,900",3,Zona 14,415,3,3.5,Info no disponible,"Zona 14, Guatemala",Annabella Niederheitmann,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,200",3,Zona 14,250,3,3,Info no disponible,"Zona 14, Guatemala",Realty Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,800",2,Zona 14,240,2,2.5,Info no disponible,"Zona 14, Guatemala",Olga de Torrebiarte,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,100 3 habitaciones",3,Zona 14,96,3,2,Info no disponible,"Zona 14, Guatemala",Enlaces Inmobiliarios,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 800,2,Zona 14,Info no disponible,2,2,Info no disponible,"Zona 14, Guatemala",LUPA INMOBILIARIA Mary Gonzalez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",Jarisa Bienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",2,Zona 14,153,2,2.5,Info no disponible,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 3,200 Más iva más mantenimiento",3,Zona 14,203,3,2.5,Info no disponible,"Zona 14, Guatemala",Maricarmen Sánchez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,150 mant incluido + iva",2,Zona 14,139,2,2.5,Info no disponible,"Zona 14, Guatemala",AcBienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250",3,Zona 14,136,3,2,Info no disponible,"Zona 14, Guatemala",Monica Gomez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,625",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",Patricia de Brol,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 865,1,Zona 14,100,1,1,Info no disponible,"Zona 14, Guatemala",Virginia Archila,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,150",2,Zona 14,104,2,2,Info no disponible,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,250",3,Zona 14,121,3,2,Info no disponible,"Zona 14, Guatemala",WWW Real Estate Consulting,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,250",3,Zona 14,121,3,2,Info no disponible,"Zona 14, Guatemala",WWW Real Estate Consulting,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,250",2,Zona 14,Info no disponible,2,2,Info no disponible,"Zona 14, Guatemala",Premium Realtor,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,635",3,Zona 14,139,3,2.5,Info no disponible,"Zona 14, Guatemala",Maria Jose Sarg,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,650",3,Zona 14,Info no disponible,3,3,Info no disponible,"Zona 14, Guatemala",Michelle Ramirez,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,350 Disponible",3,Zona 14,120,3,2.5,Info no disponible,"Zona 14, Guatemala",Soluciones Viales,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,000",4,Zona 14,249,4,3.5,Info no disponible,"Zona 14, Guatemala",Negocios Integros,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,000",4,Zona 14,249,4,3.5,Info no disponible,"Zona 14, Guatemala",Negocios Integros,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,600 Más IVA si se requiere",2,Zona 14,165,2,3,Info no disponible,"Zona 14, Guatemala",Estilo Bienes Raices,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+$ 875,1,Zona 14,100,1,1,Info no disponible,"Zona 14, Guatemala",ALQUILOGT,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700 USD",2,Zona 14,125,2,2.5,Info no disponible,"Zona 14, Guatemala",Parellada Luisa Kong Pamela,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,200",3,Zona 14,125,3,2.5,Info no disponible,"Zona 14, Guatemala",COINMSA Guatemala,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 2,000",3,Zona 14,248,3,3,Info no disponible,"Zona 14, Guatemala",ACODI Inmobiliaria,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,500",1,Zona 14,96,1,1.5,Info no disponible,"Zona 14, Guatemala",Nou Real Estate,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 1,700",2,Zona 14,Info no disponible,2,2.5,Info no disponible,"Zona 14, Guatemala",Inmaculada Palomares,Tipo no especificado,https://mapainmueble.com/area/zona-14/
+"$ 5,600 dls",3,Zona 14,304,3,3.5,Info no disponible,"Zona 14, Guatemala",Maria Jose Sarg,Tipo no especificado,https://mapainmueble.com/area/zona-14/
